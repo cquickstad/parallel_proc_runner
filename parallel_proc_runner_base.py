@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*-
 
 
+# https://github.com/cquickstad/parallel_proc_runner
+
+
 # Copyright 2018 Chad Quickstad
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
